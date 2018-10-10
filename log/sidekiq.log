@@ -1,0 +1,34 @@
+# Logfile created on 2018-10-08 11:45:58 +0530 by logger.rb/61378
+2018-10-08T06:15:59.525Z 26357 TID-2ekvp INFO: Running in ruby 2.5.1p57 (2018-03-29 revision 63029) [x86_64-linux]
+2018-10-08T06:15:59.525Z 26357 TID-2ekvp INFO: See LICENSE and the LGPL-3.0 for licensing details.
+2018-10-08T06:15:59.525Z 26357 TID-2ekvp INFO: Upgrade to Sidekiq Pro for more features and support: http://sidekiq.org
+2018-10-08T06:15:59.526Z 26357 TID-2ekvp INFO: Booting Sidekiq 5.2.2 with redis options {:id=>"Sidekiq-server-PID-26357", :url=>nil}
+2018-10-08T06:16:15.781Z 26357 TID-j7sz5 ImportWorker JID-6eaff49cf594cf9c6bd3d1b9 INFO: start
+2018-10-08T06:16:17.256Z 26357 TID-j7sz5 ImportWorker JID-6eaff49cf594cf9c6bd3d1b9 INFO: done: 1.476 sec
+2018-10-08T12:00:55.457Z 7582 TID-6tf8a INFO: Running in ruby 2.5.1p57 (2018-03-29 revision 63029) [x86_64-linux]
+2018-10-08T12:00:55.472Z 7582 TID-6tf8a INFO: See LICENSE and the LGPL-3.0 for licensing details.
+2018-10-08T12:00:55.472Z 7582 TID-6tf8a INFO: Upgrade to Sidekiq Pro for more features and support: http://sidekiq.org
+2018-10-08T12:00:55.472Z 7582 TID-6tf8a INFO: Booting Sidekiq 5.2.2 with redis options {:id=>"Sidekiq-server-PID-7582", :url=>nil}
+2018-10-08T12:01:13.696Z 7582 TID-l1eqa ImportWorker JID-042efb126b7f1fb53814c10d INFO: start
+2018-10-08T12:01:15.160Z 7582 TID-l1eqa ImportWorker JID-042efb126b7f1fb53814c10d INFO: done: 1.463 sec
+2018-10-08T12:01:25.975Z 7582 TID-l148a ImportWorker JID-193cea9854004e89da74e782 INFO: start
+2018-10-08T12:01:26.054Z 7582 TID-l148a ImportWorker JID-193cea9854004e89da74e782 INFO: done: 0.079 sec
+2018-10-08T12:01:28.604Z 7582 TID-l1fja ImportWorker JID-e5dc1bd240ff95bddc29d032 INFO: start
+2018-10-08T12:01:28.671Z 7582 TID-l1fja ImportWorker JID-e5dc1bd240ff95bddc29d032 INFO: done: 0.067 sec
+2018-10-08T12:01:30.036Z 7582 TID-l1eqa ImportWorker JID-a8a07f6203907352539d2e5e INFO: start
+2018-10-08T12:01:30.102Z 7582 TID-l1eqa ImportWorker JID-a8a07f6203907352539d2e5e INFO: done: 0.066 sec
+2018-10-08T12:01:31.551Z 7582 TID-l1g1m ImportWorker JID-bb899b5aebe098fe558a8777 INFO: start
+2018-10-08T12:01:31.629Z 7582 TID-l1g1m ImportWorker JID-bb899b5aebe098fe558a8777 INFO: done: 0.078 sec
+2018-10-08T12:01:38.164Z 7582 TID-l1f7e ImportWorker JID-6e330afaabd57b7ff96aba78 INFO: start
+2018-10-08T12:01:38.235Z 7582 TID-l1f7e ImportWorker JID-6e330afaabd57b7ff96aba78 INFO: done: 0.071 sec
+2018-10-08T12:01:43.605Z 7582 TID-l1gh2 ImportWorker JID-983e966b553826a7c98bf6bf INFO: start
+2018-10-08T12:01:43.688Z 7582 TID-l1gh2 ImportWorker JID-983e966b553826a7c98bf6bf INFO: done: 0.084 sec
+2018-10-08T12:01:45.200Z 7582 TID-l1fja ImportWorker JID-8148afbc212af6068f476f43 INFO: start
+2018-10-08T12:01:45.276Z 7582 TID-l1fja ImportWorker JID-8148afbc212af6068f476f43 INFO: done: 0.076 sec
+2018-10-08T12:01:46.252Z 7582 TID-l14o6 ImportWorker JID-c664f775db9d197a8b0f8f2c INFO: start
+2018-10-08T12:01:46.335Z 7582 TID-l14o6 ImportWorker JID-c664f775db9d197a8b0f8f2c INFO: done: 0.083 sec
+2018-10-08T12:09:06.858Z 7582 TID-l1f7e ImportWorker JID-291b9b7a0cebb9807b2470ae INFO: start
+2018-10-08T12:09:06.924Z 7582 TID-l1f7e ImportWorker JID-291b9b7a0cebb9807b2470ae INFO: done: 0.066 sec
+2018-10-08T15:36:29.931Z 7582 TID-6tf8a INFO: Shutting down
+2018-10-08T15:36:29.931Z 7582 TID-6tf8a INFO: Terminating quiet workers
+2018-10-08T15:36:29.931Z 7582 TID-l1ef6 INFO: Scheduler exiting...
